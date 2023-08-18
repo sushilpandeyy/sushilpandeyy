@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B%2C+I+am+Sushil+Pandey)](https://git.io/typing-svg)
+<img src="https://profile-counter.glitch.me/{sushilpandeyy}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 <!--
 **sushilpandeyy/sushilpandeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
