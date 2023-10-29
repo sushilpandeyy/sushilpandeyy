@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various projects<br>🌱 I’m currently learning Solidity<br>📝 I regularly write articles on https://contactsushil.medium.com/<br>📫 How to reach me contact.sushilpandey@gmail.com<br><br>
+🔭 I’m currently working on various mini projects<br>🌱 I’m currently learning Solidity<br>📝 I regularly write articles on https://contactsushil.medium.com/<br>📫 How to reach me contact.sushilpandey@gmail.com<br><br>
 
 
 ## 🌐 Socials:
@@ -15,7 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sushilpandeyy&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
