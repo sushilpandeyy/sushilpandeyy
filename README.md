@@ -1,8 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B%2C+I+am+Sushil+Pandey)](https://git.io/typing-svg)
-<h3 align="center">A passionate Full Stack developer from India</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sushilpandeyy&label=Profile%20views&color=0e75b6&style=flat" alt="sushilpandeyy" /> </p>
-
 # 💫 About Me:
 🔭 I’m currently working on various projects<br>🌱 I’m currently learning Solidity<br>📝 I regularly write articles on https://contactsushil.medium.com/<br>📫 How to reach me contact.sushilpandey@gmail.com<br><br>
 
