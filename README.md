@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sushilpandeyy&label=Profile%20views&color=0e75b6&style=flat" alt="sushilpandeyy" /> </p>
 
-- 🔭 I’m currently working on **IHH Player**
+- 🔭 I’m currently working on **Audio & Video Streaming Techs**
 
-- 🌱 I’m currently learning **React Native, Solidity**
+- 🌱 I’m currently learning **Solidity**
 
 - 📝 I regularly write articles on [https://contactsushil.medium.com/](https://contactsushil.medium.com/)
 
