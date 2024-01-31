@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sushilpandeyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilpandeyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/sushilpandeyy/achievements?format=svg&limit=3" width="350" />
+</p>
 
 
 
