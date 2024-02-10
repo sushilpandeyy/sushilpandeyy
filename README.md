@@ -12,27 +12,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sushilpandeyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilpandeyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/sushilpandeyy/achievements?format=svg&limit=3" width="350" />
-</p>
+# Contact
+## Let's make something amazing together
+### Don't hesitate to contact me. Lets get in touch *wink**
+<a href="mailto:contact.sushilpandey@gmail.com">contact.sushilpandey@gmail.com</a>
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=sushilpandeyy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**sushilpandeyy/sushilpandeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+    <a href=""><img alt="discord" src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge"></a>
+    <a href="https://instagram.com/contactsushil"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow-FF0069?style=for-the-badge"></a>
+    <a href="https://linkedin.com/in/contactsushil"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"></a>
+    <a href="https://github.com/sushilpandeyy"><img alt="github" src="https://img.shields.io/badge/Github-Contact-000000?style=for-the-badge"></a>
+    <a href="https://twitter.com/contactsushill"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Contact-1D9BF0?style=for-the-badge"></a>
+</div>
