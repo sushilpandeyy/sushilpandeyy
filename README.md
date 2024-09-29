@@ -5,6 +5,8 @@
 ### Don't hesitate to contact me. Lets get in touch 
 <a href="mailto:contact.sushilpandey@gmail.com">contact.sushilpandey@gmail.com</a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilpandeyy&layout=compact)
+
 <div align="left">
     <a href=""><img alt="discord" src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge"></a>
     <a href="https://instagram.com/contactsushil"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow-FF0069?style=for-the-badge"></a>
