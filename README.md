@@ -61,7 +61,7 @@
 - 🌐 [Website (still building)](https://contactsushil.me)
 - 💼 [LinkedIn](https://linkedin.com/in/contactsushil)
 - 🐙 [GitHub](https://github.com/sushilpandeyy)
-- 🐦 [Twitter]([https://twitter.com/sushilcode](https://x.com/contactsushill))
+- 🐦 [Twitter](https://x.com/contactsushill)
 
 ---
 
