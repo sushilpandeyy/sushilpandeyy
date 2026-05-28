@@ -14,12 +14,3 @@
 - 🐦 [Twitter](https://x.com/contactsushill)
 
 ---
-
-<p align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushilpandeyy&theme=tokyonight" />
-</p>
-
----
-
-> “Code for impact. Build for devs. Contribute to the future.” — Sushil Pandey
