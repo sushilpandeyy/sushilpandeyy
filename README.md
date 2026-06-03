@@ -8,7 +8,7 @@
 
 ### 📬 Let’s Connect
 
-- 🌐 [Website (still building)](https://contactsushil.me)
+- 🌐 [Website](https://contactsushil.me)
 - 💼 [LinkedIn](https://linkedin.com/in/contactsushil)
 - 🐙 [GitHub](https://github.com/sushilpandeyy)
 - 🐦 [Twitter](https://x.com/contactsushill)
